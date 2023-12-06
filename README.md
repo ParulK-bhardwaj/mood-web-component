@@ -38,14 +38,12 @@ To use the Mood Selector web component:
 
 #### Examples
 - Default Moods
-```
-html
+```html
 <mood-selector></mood-selector>
 ```
 
 - Custom Moods
-```
-html
+```html
 <mood-selector moods='{
     "🤔 Confused": {"color": "purple", "gif": "https://media.tenor.com/7fw_-tKvxYUAAAAC/confusing-math.gif", "spotifyUrl": "https://open.spotify.com/embed/track/3Um9toULmYFGCpvaIPFw7l?utm_source=generator"}
 }'></mood-selector>
