@@ -63,7 +63,7 @@ Embeds allow you to include interactive content from Spotify in any compatible w
 
 <img width="682" alt="image" src="https://github.com/ParulK-bhardwaj/mood-web-component/assets/111934039/be415941-3967-4089-a44b-2732f950c1c0">
 
-### How to View the Redesigned Project
+### How to View the Sample HTML:
 To view the sample html, follow these steps:
 
 - Clone the repository to your local machine.
