@@ -50,7 +50,7 @@ To use the Mood Selector web component:
 ```
 
 #### How to get `spotifyURL`: 
-(Spotify - how to share embed track)[https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed]
+[Spotify - how to share embed track](https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed): 
 Embeds allow you to include interactive content from Spotify in any compatible website or web application:
 1. Navigate to the [Spotify Web Player](https://open.spotify.com/).
 
